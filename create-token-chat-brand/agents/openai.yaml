@@ -1,0 +1,4 @@
+interface:
+  display_name: "Token Chat Brand Builder"
+  short_description: "Create complete themed AI chat brand packages"
+  default_prompt: "Use $create-token-chat-brand to build a complete token-funded AI chat brand from my brand name, domain, and theme."
